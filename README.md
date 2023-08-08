@@ -1,4 +1,75 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+//Banner
+<p class="line-1 anim-typewriter">Hi, I'm Tim and this is my Github</p>
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+
+/* Global */
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Anonymous Pro', monospace;
+  background-color: #2a2a2a; /* Dark gray background */
+  color: #fff;
+  overflow: hidden;
+  background-image: url(https://wallpapercave.com/dwp2x/wp4180015.jpg); /* Add the image path here */
+  background-repeat: repeat;
+  background-size: auto;
+  background-position: center 30%;
+  background-size: 60%
+}
+
+.line-1 {
+  position: relative;
+  width: 24em;
+  border-right: 2px solid rgba(255, 255, 255, 0.75);
+  font-size: 2.5rem; /* Adjust font size */
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* Animation */
+.anim-typewriter {
+  animation: typewriter 4s steps(44) 1s 1 normal both, blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+  to {
+    width: 24em;
+  }
+}
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: rgba(255, 255, 255, 0.75);
+  }
+  to {
+    border-right-color: transparent;
+  }
+}
+
+/* Hover Animation */
+.line-1:hover {
+  animation: none;
+  border-right: 2px solid #FFC107; /* Yellow border on hover */
+  animation: borderBlink 0.8s infinite alternate;
+}
+
+@keyframes borderBlink {
+  0% {
+    border-right-color: rgba(255, 255, 255, 0.75);
+  }
+  100% {
+    border-right-color: #FFC107;
+  }
+}
+
+
 
 <h2> What's good, I'm Tim <img src="(https://giphy.com/gifs/thebossbaby-food-baby-3o6Yg725hMPzA5sxyg)" width="50"></h2>
 
