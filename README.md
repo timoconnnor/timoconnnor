@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://www.instagram.com/timoconnorrrr/">
-    <img alt="ig" title="ig" height="48" width="48" src="file:///C:/Users/Timothy/Downloads/instagram%20(1).svg"></a>
+    <img alt="ig" title="ig" height="48" width="48" src="https://simpleicons.org/icons/instagram.svg"></a>
 </p>
 
 <p align="center">
