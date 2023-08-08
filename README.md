@@ -1,9 +1,9 @@
 
 
-<h2> What's up, I'm Tim! <img src="(https://giphy.com/gifs/thebossbaby-food-baby-3o6Yg725hMPzA5sxyg)" width="50"></h2>
+<h2> What's good, I'm Tim <img src="(https://giphy.com/gifs/thebossbaby-food-baby-3o6Yg725hMPzA5sxyg)" width="50"></h2>
 
 
-<p1>I literally just code and play chess. Pretty exciting stuff, I know. </p1>
+<p1> I'm an absolute coding machine... beware </p1>
 
 <p align="center">
   <a href="https://github.com/timoconnnor">
