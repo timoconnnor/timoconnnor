@@ -3,6 +3,17 @@
 <p1> I'm an absolute coding machine... beware </p1>
 
 <p align="center">
+  <a 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.simpleicons.org/github/white](https://simpleicons.org/icons/git.svg)">
+      <img alt="Git" title="Git" height="48" width="48" src="(https://simpleicons.org/icons/git.svg)"></picture></a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://www.instagram.com/timoconnorrrr/">
+    <img alt="ig" title="ig" height="48" width="48" src="https://simpleicons.org/icons/instagram.svg"></a>
+</p>
+<h2>Stuff I know</h2>
+<p align="center">
   <a href="https://github.com/timoconnnor">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
@@ -12,6 +23,5 @@
   <a href="https://www.instagram.com/timoconnorrrr/">
     <img alt="ig" title="ig" height="48" width="48" src="https://simpleicons.org/icons/instagram.svg"></a>
 </p>
-
 ---
 [![Tim's's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoconnnor)](https://github.com/timoconnnor/github-readme-stats)
