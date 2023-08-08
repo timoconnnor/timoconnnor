@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> What's up, I'm Tim! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://giphy.com/gifs/thebossbaby-food-baby-3o6Yg725hMPzA5sxyg)" width="50"></h2>
+<h2> What's up, I'm Tim! <img src="(https://giphy.com/gifs/thebossbaby-food-baby-3o6Yg725hMPzA5sxyg)" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
