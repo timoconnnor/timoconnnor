@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20I'm%20Tim%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h2> What's good, I'm Tim <img src="(https://giphy.com/gifs/thebossbaby-food-baby-3o6Yg725hMPzA5sxyg)" width="50"></h2>
 
 
