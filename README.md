@@ -1,8 +1,5 @@
-
-//Banner
+```html
 <p class="line-1 anim-typewriter">Hi, I'm Tim and this is my Github</p>
-/* Google Fonts */
-@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
 
 /* Global */
 body {
@@ -19,8 +16,9 @@ body {
   background-repeat: repeat;
   background-size: auto;
   background-position: center 30%;
-  background-size: 60%
+  background-size: 60%;
 }
+
 
 .line-1 {
   position: relative;
