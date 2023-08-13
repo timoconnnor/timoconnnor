@@ -13,16 +13,7 @@
     <img alt="ig" title="ig" height="48" width="48" src="https://simpleicons.org/icons/instagram.svg"></a>
 </p>
 
-<style>
-  ol.custom-ordered-list {
-    list-style-type: none; /* Remove default numbering */
-  }
-  ol.custom-ordered-list li::before {
-    content: counter(list-item); /* Use counter to display custom numbers */
-    counter-increment: list-item; /* Increment the counter for each item */
-    margin-right: 8px;
-  }
-</style>
+
 <h1>Things I know </h1>
 <ol class="custom-ordered-list">
   <li>React</li>
