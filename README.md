@@ -12,6 +12,10 @@
   <a href="https://www.instagram.com/timoconnorrrr/">
     <img alt="ig" title="ig" height="48" width="48" src="https://simpleicons.org/icons/instagram.svg"></a>
 </p>
-
+<h1>Stuff I Know</h1>
+<p>
+  <li>1. Python
+  2. React</li>
+</p>
 ---
 [![Tim's's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoconnnor)](https://github.com/timoconnnor/github-readme-stats)
