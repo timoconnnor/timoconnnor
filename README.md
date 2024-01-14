@@ -14,13 +14,6 @@
 </p>
 
 
-<h1>Things I know </h1>
-<ol class="custom-ordered-list">
-  <li>React</li>
-  <li>Vercel</li>
-  <li>Git</li>
-</ol>
-
 
 ---
 [![Tim's's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoconnnor)](https://github.com/timoconnnor/github-readme-stats)
