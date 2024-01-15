@@ -1,6 +1,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20I'm%20Tim%20and%20this%20is%20my%20Profile&width=800&height=150)
 
-<p1> I'm an absolute coding machine... beware </p1>
+
 
 <p align="center">
   <a href="https://github.com/timoconnnor">
