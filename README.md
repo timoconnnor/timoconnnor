@@ -14,4 +14,4 @@
 
 
 ---
-[![Tim's's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoconnnor)](https://github.com/timoconnnor/github-readme-stats)
+
