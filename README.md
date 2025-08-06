@@ -7,8 +7,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://www.linkedin.com/in/timoconnnor/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png"></a>
 </p>
 
 
